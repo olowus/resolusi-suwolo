@@ -1,0 +1,6 @@
+Rencana kedepan apa yang harus dipelajar
+1. Fundamental Coding
+2. Fundamental Java
+  # Mengulang Video JDT
+  # Menyelesaikan Kelas di Udemy
+3. Membuat Project Java
